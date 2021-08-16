@@ -9,7 +9,7 @@ const passwordField = document.getElementById('user-password');
 const userPassword = passwordField.value;
 if(userEmail == 'sontan@gmail.com' && userPassword == 'secret'){ 
 
-    window.location.href="banking.html";
+    window.location.href='banking.html';
  
 }
 })
