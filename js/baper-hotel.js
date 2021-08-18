@@ -12,4 +12,6 @@ if(userEmail == 'sontan@gmail.com' && userPassword == '143'){
     window.location.href='banking.html';
  
 }
-})
+});
+
+
